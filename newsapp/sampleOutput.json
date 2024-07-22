@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Livemint",
+            "title": "Apple Intelligence leaves iPhone 15 and 15 Plus behind: Expert Ming-Chi Kuo - Mint",
+            "description": "At WWDC 2024, Apple announced advanced AI features, but the iPhone 15 and 15 Plus will reportedly miss out due to hardware constraints. Analyst Ming-Chi Kuo explains the A16 chip's 6GB RAM is insufficient for AI tasks, unlike the A17 Pro's 8GB RAM.",
+            "url": "https://www.livemint.com/technology/gadgets/apple-intelligence-leaves-iphone-15-and-15-plus-behind-expert-ming-chi-kuo-11718294903968.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/06/13/1600x900/APPLE-TITANIUM--0_1695344247177_1718295180788.JPG",
+            "publishedAt": "2024-06-13T16:21:18Z",
+            "content": "In a landmark keynote at the WWDC 2024, Apple introduced groundbreaking artificial intelligence (AI) enhancements across its devices and iOS applications, marking a significant leap in smart technolo… [+2724 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "THE WEEK"
+            },
+            "author": "PTI",
+            "title": "Bengal samples found negative for bird flu no restriction on poultry items’ consumption Official - The Week",
+            "description": "(This story has not been edited by THE WEEK and is auto-generated from a PTI",
+            "url": "https://www.theweek.in/wire-updates/national/2024/06/13/cal27-wb-bird-flu.html",
+            "urlToImage": "https://www.theweek.in/etc/designs/week/img/logo-main.png",
+            "publishedAt": "2024-06-13T16:08:41Z",
+            "content": "Kolkata, Jun 13 (PTI) None of the samples of poultry birds from different parts of West Bengal tested positive for bird flu, a senior official said on Thursday, maintaining that there was no need to … [+1916 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "The Indian Express",
+            "title": "BANGLADESH vs NETHERLANDS T20 World Cup 2024: BAN vs NED vs Live Cricket Score, Full Scorecard and Ball by Ball Match Updates - The Indian Express",
+            "description": null,
+            "url": "https://indianexpress.com/section/sports/t20-world-cup/schedules-fixtures/bangladesh-vs-netherlands-full-scorecard-t20-world-cup-2024-live-cricket-score-match-27-ban-vs-ned-bane06132024239630/",
+            "urlToImage": null,
+            "publishedAt": "2024-06-13T15:53:50Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "The Indian Express",
+            "title": "US Supreme Court preserves access to widely used abortion medication | World News - The Indian Express",
+            "description": null,
+            "url": "https://indianexpress.com/article/world/us-supreme-court-access-abortion-pill-medication-9391008/",
+            "urlToImage": null,
+            "publishedAt": "2024-06-13T14:34:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Neeshita Nyayapati",
+            "title": "Varalaxmi Sarathkumar invites Samantha Ruth Prabhu, Anupam Kher to her wedding with Nicholai Sachdev - Hindustan Times",
+            "description": "Actor Varalaxmi Sarathkumar will marry Mumbai gallerist Nicholai Sachdev in July. She recently invited Ravi Teja and Prasanth Varma.",
+            "url": "https://www.hindustantimes.com/entertainment/tamil-cinema/varalaxmi-sarathkumar-invites-samantha-ruth-prabhu-anupam-kher-to-her-wedding-nicholai-sachdev-101718286171834.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/06/13/1600x900/Varalaxmi_Samantha_Anupam_1718286320819_1718286335887.jpg",
+            "publishedAt": "2024-06-13T14:29:07Z",
+            "content": "Actor Varalaxmi Sarathkumar will marry longtime partner, Mumbai gallerist Nicholai Sachdev on July 2 in Thailand, according to 123 Telugu. She is currently travelling across the country to hand out i… [+2226 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Locked In Forever: Life Inside El Salvador's 40,000 Inmate Mega-Prison With No Releases - NDTV",
+            "description": "The government of El Salvador has unveiled stark photographs from its new mega-prison, CECOT, designed to house top gang members indefinitely.",
+            "url": "https://www.ndtv.com/world-news/locked-in-forever-life-inside-el-salvadors-40-000-inmate-mega-prison-with-no-releases-5883242",
+            "urlToImage": "https://c.ndtvimg.com/2024-06/glpguqv8_center-for-the-confinement-of-terrorism_625x300_13_June_24.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738?ver-20240506.08",
+            "publishedAt": "2024-06-13T14:08:33Z",
+            "content": "The maximum-security facility in Tecoluca, designed to hold 40,000 prisoners.\r\nThe government of El Salvador has released a series of photographs offering a glimpse into the conditions within the cou… [+2043 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Ultrasound key to detect fatty liver disease early: Experts - India TV News",
+            "description": null,
+            "url": "https://families.google.com/service-restricted",
+            "urlToImage": null,
+            "publishedAt": "2024-06-13T13:56:44Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PINKVILLA"
+            },
+            "author": "Himesh Mankad",
+            "title": "Chandu Champion Box Office Preview: Kartik Aaryan film runtime, screen count & opening day - PINKVILLA",
+            "description": "Based On The Response To The Pre-sales, The Kartik Aaryan Starrer Chandu Champion Will Be Looking To Start In The Range Of Rs 4.50 To 5.50 Crore. Details",
+            "url": "https://www.pinkvilla.com/entertainment/box-office/chandu-champion-box-office-preview-kartik-aaryan-film-runtime-screen-count-advance-booking-and-opening-day-1316465",
+            "urlToImage": "https://www.pinkvilla.com/images/2024-06/1477881141_chandu-champion-box-office-preview-1.jpg",
+            "publishedAt": "2024-06-13T13:53:39Z",
+            "content": "Kartik Aaryan and Kabir Khan are teaming up for the first time on the Sajid Nadiadwala-produced Chandu Champion, which is touted to be a biopic of Indias first paralympic gold medalist, Murlikant Pet… [+2368 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hindu",
+                "name": "The Hindu"
+            },
+            "author": "The Hindu",
+            "title": "PM Modi leaves to Italy for G7 Summit - The Hindu",
+            "description": null,
+            "url": "https://www.thehindu.com/news/national/pm-modi-leaves-to-italy-for-g7-summit/article68285624.ece",
+            "urlToImage": null,
+            "publishedAt": "2024-06-13T13:52:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Abplive.com"
+            },
+            "author": "ABP News Bureau",
+            "title": "Fire Breaks Out In Delhi's Chandni Chowk Market Area, 14 Fire Tenders Rushed To Spot - ABP Live",
+            "description": "The fire broke out at Marwadi Katra market area in Chandni Chowk, Delhi. No one is reported hurt as yet.",
+            "url": "https://news.abplive.com/delhi-ncr/delhi-fire-breaks-out-in-chandni-chowk-marwadi-katra-14-fire-tenders-rushed-to-spot-1695417",
+            "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2024/06/13/254442f7236c0bf406bd03cb5ad894451718287202011927_original.jpg?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2024-06-13T13:31:24Z",
+            "content": "A massive fire broke out at the Marwadi Katra market area in Chandni Chowk, Delhi on Thursday. In order to douse the flames, around 40 fire tenders were rushed to the site. No one is reported hurt as… [+4333 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TOI News Desk",
+            "title": "Bengaluru court issues non-bailable arrest warrant against former CM B S Yediyurappa in Pocso case - The Times of India",
+            "description": "India News: NEW DELHI: A Bengaluru court on Thursday issued a non-bailable arrest warrant against former Karnataka chief minister B S Yediyurappa in a Pocso case.",
+            "url": "https://timesofindia.indiatimes.com/india/bengaluru-court-issues-non-bailable-arrest-warrant-against-former-cm-b-s-yediyurappa-in-pocso-case/articleshow/110969719.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-110972486,width-1070,height-580,imgsize-41654,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2024-06-13T13:10:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Deepak Upadhyay",
+            "title": "Mursan, Hilsa: Scientists name craters on Mars after cities in UP and Bihar | Mint - Mint",
+            "description": "Ahmedabad-based Physical Research Laboratory, a Unit of the Department of Space, has said that three recently discovered craters on Mars have been named after its former director Devendra Lal—renowned cosmic ray physicist—and cities of Mursan and Hilsa in UP …",
+            "url": "https://www.livemint.com/science/news/mursan-hilsa-scientists-name-craters-on-mars-after-cities-in-up-and-bihar-11718282436713.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/06/13/1600x900/Mars_1718282484474_1718282492994.PNG",
+            "publishedAt": "2024-06-13T12:45:29Z",
+            "content": "Ahmedabad-based Physical Research Laboratory, a Unit of Department of Space, has said that three recently discovered craters on Mars have been named after its former director Devendra Lalrenowned cos… [+2674 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Storypick.com"
+            },
+            "author": "Storypick",
+            "title": "Kerala Doc’s Maid Diagnosed A Disease In Seconds Which He Couldn’t Despite 17 Yrs of Study - Storypick",
+            "description": null,
+            "url": "https://www.storypick.com/kerala-doctor-shares-his-maid-diagnosed-a-disease-in-seconds/",
+            "urlToImage": null,
+            "publishedAt": "2024-06-13T12:38:09Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Business Standard"
+            },
+            "author": "Aman Sahu",
+            "title": "Ambuja Cement acquires Penna Cement at enterprise value of Rs 10,422 cr - Business Standard",
+            "description": "Penna Cement acquisition by Adani Group: PCIL's strategic location and sufficient limestone reserves provide an opportunity to increase cement capacity through debottlenecking and additional investment",
+            "url": "https://www.business-standard.com/companies/news/adani-group-acquires-penna-cement-at-enterprise-value-of-rs-10-422-cr-124061300825_1.html",
+            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-10/10/thumb/fitandfill/400X400/1696926236-8798.jpg",
+            "publishedAt": "2024-06-13T12:33:51Z",
+            "content": "PCIL's strategic location and sufficient limestone reserves provide an opportunity to increase cement capacity through debottlenecking and additional investment\r\n(Photo: Bloomberg)\r\nAman SahuNew Delh… [+2067 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "New Release Dates For Alia Bhatt's Jigra And Jr NTR's Devara - NDTV Movies",
+            "description": "Jigra features Alia Bhatt and Vedang Raina in the lead roles",
+            "url": "https://www.ndtv.com/entertainment/new-release-dates-for-alia-bhatts-jigra-and-jr-ntrs-devara-5882610",
+            "urlToImage": "https://c.ndtvimg.com/2024-06/2opnk3cg_alia_625x300_13_June_24.jpg",
+            "publishedAt": "2024-06-13T12:32:43Z",
+            "content": "Both the films have got new release dates. (courtesy: karanjohar)\r\nNew Delhi: It's time to revise your film calendars. Why, you ask? Because the release dates of Jigra, headlined by Alia Bhatt and De… [+1213 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Samsungmobilepress.com"
+            },
+            "author": null,
+            "title": "First Galaxy Watch FE Empowers Even More Users With Samsung's Advanced Health Monitoring Technology - Samsung Mobile Press",
+            "description": "Galaxy Watch FE offers holistic health insights and connected Samsung Galaxy experiences with stylish design",
+            "url": "https://www.samsungmobilepress.com/press-releases/first-galaxy-watch-fe-empowers-even-more-users-with-samsungs-advanced-health-monitoring-technology",
+            "urlToImage": "https://www.samsungmobilepress.com/file/A39E31CDA4A126CE65B16625C22BE6DB9E2766EC82BBA52C0A59D87B16A843F0128F103DFCC05311AC9AFDFFA57B298EA602DA30E38A6232765AA3B8E019F55E42ADA5AB1F33032AA08925BE6027929F61D8F5800717B48876680DFCF89C612AF94A5F57BF74964635970ACD5F8737F26AD71492C20D06E6EA264FA50A45ED5C4AE62FE6F569FAEBDD059C53FAF8CFBD5C82F3CB8A1466368A880F397AF6666657168429C727EACA4DB024CC0BB03C3388E8EF92C49CB7F4685F60EAF93E8C0237C7485ECC459CF7B5E6383A9E21B2BE2B45CC5D12542B723FFA6C262A08DCB1",
+            "publishedAt": "2024-06-13T12:04:41Z",
+            "content": "Galaxy Watch FE offers holistic health insights and connected Samsung Galaxy experiences with stylish design\r\nSEOUL, Korea – June 13, 2024 – Samsung Electronics Co., Ltd. today announced the release … [+11162 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Correspondent",
+            "title": "Ajit Doval appointed National Security Advisor for third consecutive time - Hindustan Times",
+            "description": "As his first major assignment in Modi 3.0, Doval will be travelling with the PM to Italy on Thursday for the G7 Summit | Latest News India",
+            "url": "https://www.hindustantimes.com/india-news/ajit-doval-appointed-national-security-advisor-for-third-consecutive-time-101718280025580.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/06/13/1600x900/NSA-Ajit-Doval--File-Photo-_1718280096713.jpg",
+            "publishedAt": "2024-06-13T12:00:25Z",
+            "content": "New Delhi: Prime Minister Narendra Modi on Thursday appointed Ajit Doval as his National Security Advisor (NSA) for the third consecutive time, with the rank of cabinet minister for another five year… [+2591 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deccan Herald"
+            },
+            "author": "PTI",
+            "title": "Maharashtra assembly polls: Raj Thackeray asks party workers to be ready to contest 225-250 seats - Deccan Herald",
+            "description": null,
+            "url": "https://www.deccanherald.com/elections/maharashtra/maharashtra-assembly-polls-raj-thackeray-asks-party-workers-to-be-ready-to-contest-225-250-seats-3065345",
+            "urlToImage": "https://images.deccanherald.com/deccanherald%2F2024-06%2F1c140945-133e-4761-8d6d-87cb362f5545%2Ffile7uxcad5nluc1jd1i9n3s.jpg?rect=0%2C0%2C600%2C315&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+            "publishedAt": "2024-06-13T11:22:06Z",
+            "content": "The Maharashtra Navnirman Sena had declared support for the BJP-led NDA during the Lok Sabha elections. Raj Thackeray also campaigned for the NDA though his party was not in the fray anywhere. \r\n\"Raj… [+337 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hindu",
+                "name": "The Hindu"
+            },
+            "author": "The Hindu",
+            "title": "Nassau Stadium, home to tense T20 World Cup matches, set for demolition - The Hindu",
+            "description": null,
+            "url": "https://www.thehindu.com/sport/cricket/nassau-stadium-home-to-tense-t20-world-cup-matches-set-for-demolition/article68284827.ece",
+            "urlToImage": null,
+            "publishedAt": "2024-06-13T11:14:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "NDTV Sports",
+            "title": "Pakistan May Face T20 World Cup Elimination Due To \"State Of Emergency\", Internet Says 'Qudrat Ka Ni.. - NDTV Sports",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3Nwb3J0cy5uZHR2LmNvbS90MjAtd29ybGQtY3VwLTIwMjQvcGFraXN0YW4tbWF5LWdldC1rbm9ja2VkLW91dC1kdWUtdG8tc3RhdGUtb2YtZW1lcmdlbmN5LWluLWZsb3JpZGEtdmlzdWFscy1mcmlnaHRlbmluZy01ODgwNDA30gGOAWh0dHBzOi8vc3BvcnRzLm5kdHYuY29tL3QyMC13b3JsZC1jdXAtMjAyNC9wYWtpc3Rhbi1tYXktZ2V0LWtub2NrZWQtb3V0LWR1ZS10by1zdGF0ZS1vZi1lbWVyZ2VuY3ktaW4tZmxvcmlkYS12aXN1YWxzLWZyaWdodGVuaW5nLTU4ODA0MDcvYW1wLzE?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-13T10:51:00Z",
+            "content": null
+        }
+    ]
+}
